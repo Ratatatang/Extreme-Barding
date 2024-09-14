@@ -1,0 +1,26 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "barding:item/battalions_backup"
+  },
+  "display": {
+    "firstperson_righthand": {
+      "rotation": [45, 90, -90],
+      "translation": [0, 4, 2]
+    },
+    "firstperson_lefthand": {
+      "rotation": [-135, -90, -90],
+      "translation": [0, 4, 2]
+    },
+    "thirdperson_righthand": {
+      "rotation": [45, 90, -90],
+      "translation": [0, 4, 2],
+      "scale": [0.8, 0.8, 0.8]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [-135, -90, -90],
+      "translation": [0, 4, 2],
+      "scale": [0.8, 0.8, 0.8]
+    }
+  }
+}
